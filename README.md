@@ -1,1 +1,1 @@
-# genie-soft.github.io
+  # 지니소프트 개발자 컨퍼런ㅅ 
